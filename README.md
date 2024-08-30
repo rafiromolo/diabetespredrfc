@@ -14,4 +14,4 @@ Link: <a href="https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-
 
 This project has been built with some frameworks and libraries. Here are some of them.
 
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
