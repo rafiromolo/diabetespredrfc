@@ -1,0 +1,28 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+h1 {
+  margin-bottom: 36px;
+}
+
+.forms {
+  width: 640px;
+  border-radius: 8px;
+  padding: 32px;
+}
+
+.socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.dataset,
+.code {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
