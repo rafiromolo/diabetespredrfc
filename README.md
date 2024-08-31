@@ -18,4 +18,4 @@ This project has been built with some frameworks and libraries. Here are some of
 - [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=reacte&style=for-the-badge&logoColor=whit)](https://react.dev)
 - [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 - [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
-- [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badges&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+- [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
