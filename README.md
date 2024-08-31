@@ -15,7 +15,7 @@ Link: <a href="https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-
 This project has been built with some frameworks and libraries. Here are some of them.
 
 - [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white)](https://vitejs.dev/)
-- [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=for-the-badge&logoColor=whit)](https://react.dev)
+- [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=for-the-badge&logoColor=white)](https://react.dev)
 - [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 - [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 - [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
