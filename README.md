@@ -12,4 +12,4 @@ Link: <a href="https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-
 
 This project has been built with some frameworks and libraries. Here are some of them.
 
-- [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&style=for-the-badge)]
+- [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white)](https://vitejs.dev/)
