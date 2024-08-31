@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-## About The Project
+<!-- ABOUT THE PROJECT -->
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## About The Project
 
 I developed this machine learning model to get a prediction of diabetes. I did it to improve my skills and to become a better programmer. I hope this project can help me be a better programmer and get me a fucking good job, real job. I don't expect that this is gonna help other people. But if this helps, well lucky you! No need to thank me! I am glad that this little work can help me and other people.
 
@@ -14,4 +14,8 @@ Link: <a href="https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-
 
 This project has been built with some frameworks and libraries. Here are some of them.
 
-- [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+- [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white)](https://vitejs.dev/)
+- [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=for-the-badge&logoColor=white)](https://react.dev)
+- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+- [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badges&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
